@@ -1,0 +1,3 @@
+﻿  server.cpp
+c:\users\hangkeon\desktop\final-hangkeon\server\server\server.cpp(63): warning C4129: 'M': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  server.vcxproj -> C:\Users\HangKeon\Desktop\final-HangKeon\server\Debug\server.exe
